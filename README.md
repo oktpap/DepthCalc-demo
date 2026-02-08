@@ -1,6 +1,6 @@
 #  DepthCalc - Qt/C++ application for multi‑format depth data processing and plotting
 ---
-	This project is an application software for processing and interpreting measurement complex data, including algorithms for calibrating, filtering and converting signals, as well as generating output files for further analysis.
+This project is an application software for processing and interpreting measurement complex data, including algorithms for calibrating, filtering and converting signals, as well as generating output files for further analysis.
 
 ## Features
 - Multi-format import and conversion: a separate module for downloading and converting PRZ/IFH/DVL with filtering and resampling.
