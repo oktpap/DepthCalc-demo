@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/calibrationTabIco.png</file>
+        <file>resources/gl1ico.png</file>
+        <file>resources/homeicon.png</file>
+        <file>resources/Ico1.png</file>
+        <file>resources/Ico2.png</file>
+        <file>resources/mainicon.ico</file>
+        <file>resources/redo.png</file>
+        <file>resources/undo.png</file>
+    </qresource>
+</RCC>
